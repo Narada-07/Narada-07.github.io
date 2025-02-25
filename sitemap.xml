@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://Narada-07.github.io/blog.html</loc>
-    <lastmod>2025-02-25T13:14:26.886Z</lastmod>
-  </url>
-  <url>
-    <loc>https://Narada-07.github.io/posts/welcome.html</loc>
-    <lastmod>2025-02-25T13:14:26.887Z</lastmod>
+    <loc>https://Narada-07.github.io/index.html</loc>
+    <lastmod>2025-02-25T13:15:55.273Z</lastmod>
   </url>
   <url>
     <loc>https://Narada-07.github.io/posts/visualisation.html</loc>
-    <lastmod>2025-02-25T13:14:26.887Z</lastmod>
+    <lastmod>2025-02-25T13:15:55.274Z</lastmod>
   </url>
   <url>
-    <loc>https://Narada-07.github.io/index.html</loc>
-    <lastmod>2025-02-25T13:14:26.886Z</lastmod>
+    <loc>https://Narada-07.github.io/posts/welcome.html</loc>
+    <lastmod>2025-02-25T13:15:55.274Z</lastmod>
   </url>
 </urlset>
