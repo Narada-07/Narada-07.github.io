@@ -1,1 +1,1 @@
-# quarto-template
+# Qlik-Sense Expository Assignment
