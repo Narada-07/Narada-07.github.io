@@ -1,5 +1,0 @@
----
-title: Quarto Template
----
-
-Quarto template Text!
